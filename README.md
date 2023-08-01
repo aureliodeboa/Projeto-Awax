@@ -35,8 +35,8 @@ Você também pode acessar a loja online através do link: https://serene-floren
 Contribuições são bem-vindas! Caso tenha alguma sugestão, correção de bugs ou melhorias para o projeto, sinta-se à vontade para criar uma _issue_ ou enviar um _pull request_.
 
 
-Agradecemos à B7Web pelo excelente curso que nos proporcionou os conhecimentos necessários para criar este projeto de loja online.
+Agradeço à B7Web pelo excelente curso que me proporcionou os conhecimentos necessários para criar este projeto.
 
 ---
 
-Esse Readme é um exemplo e pode ser personalizado de acordo com as características específicas do seu projeto. Certifique-se de incluir informações relevantes sobre o projeto, sua equipe, suas funcionalidades e como os outros podem contribuir. Além disso, adicione a licença adequada e outros detalhes que possam ser relevantes para os usuários do seu repositório.
+
