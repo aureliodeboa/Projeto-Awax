@@ -241,3 +241,71 @@ menu ul,.menu li{
     width: 380px;
     box-shadow: 0px 5px 10px #333;
 }
+
+
+
+
+.section-services{
+    display: flex;
+    
+}
+
+.section-service:first-child{
+    border-left:1px solid #333;
+}
+.section-service{
+    flex:1;
+    text-align: center;
+    border-right:1px solid #333;
+    padding: 15px;
+}
+.section-service h4{
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-family: 18px;
+}
+
+.section-service p{
+    margin-top: 10px;
+    font-size: 13px;
+    color: #999;
+}
+
+
+
+
+.section-projects{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+.section-projects--filters{
+    border: 1px solid #999;
+    background-color: #eee;
+    border-radius: 30px;
+    display: inline-block;
+    padding: 0px 20px;
+    
+}
+.section-projects--filters ul,
+.section-projects--filters li {
+    list-style: none;
+}
+.section-projects--filters li{
+    display: inline-block;
+    padding: 10px;
+    text-transform: uppercase;
+    font-size: 13px;
+    border-left: 1px solid #ccc;
+    color: #555;
+    border-bottom: 3px solid #eee;
+    cursor: pointer;
+}
+.section-projects--filters li:first-child{
+    border-left: 0;
+}
+
+.section-projects--filters li:hover,.section-projects--filters li.active {
+    border-bottom: 3px solid #B28756;
+}
