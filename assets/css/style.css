@@ -309,3 +309,50 @@ menu ul,.menu li{
 .section-projects--filters li:hover,.section-projects--filters li.active {
     border-bottom: 3px solid #B28756;
 }
+
+
+.section-projects--photos{
+    width: 100vw;
+    max-width: 1140px;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.section-projects--photo{
+    width: 280px;
+
+}
+.section-projetcts--photoarea{
+    margin: 10px;
+    width: 260px;
+    height: 160px;
+}
+.section-projetcts--photoarea img{
+    width: inherit;
+    height: inherit;
+}
+.section-projects--photinfo{
+    position: absolute;
+    background-color: rgba(0, 0,0, 0.5);
+    width: inherit;
+    height: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #FFF;
+    display: none;
+
+}
+.section-projects--photinfo h5{
+    font-size: 18px;
+    font-weight: 600;
+
+}
+
+.section-projetcts--photoarea:hover .section-projects--photinfo{
+    display: flex;
+}
