@@ -15,6 +15,7 @@ O projeto foi construído utilizando as seguintes tecnologias:
 
 - HTML5: Utilizado para estruturar a página web e definir os elementos que compõem o conteúdo da loja.
 - CSS3: Responsável por estilizar os elementos HTML e tornar o site atraente, moderno e responsivo.
+- Javascript: Responsável por dar funcionalidade ao menu mobile
 
 ## Funcionalidades
 
