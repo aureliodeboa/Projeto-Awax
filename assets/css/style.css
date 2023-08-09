@@ -999,6 +999,9 @@ footer {
     .section-map--info-item:last-child {
         margin-bottom:0;
     }
+    .section-companies--area {
+        flex-wrap:wrap;
+    }
 }
 
 
